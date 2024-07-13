@@ -1,0 +1,25 @@
+/* src/components/Products.css */
+
+.products {
+    padding: 20px;
+  }
+  
+  .products h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .products ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .products li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .products li p {
+    margin: 0;
+  }

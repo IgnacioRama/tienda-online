@@ -1,0 +1,15 @@
+/* src/components/Returns.css */
+
+.returns {
+    padding: 20px;
+  }
+  
+  .returns h2 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .returns p {
+    font-size: 1.2rem;
+    color: #666;
+  }

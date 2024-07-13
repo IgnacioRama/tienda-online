@@ -1,0 +1,25 @@
+
+.order-summary {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+  }
+  
+  .order-summary h2 {
+    margin-top: 0;
+  }
+  
+  .order-summary ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .order-summary ul li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .order-summary ul li:last-child {
+    border-bottom: none;
+  }
